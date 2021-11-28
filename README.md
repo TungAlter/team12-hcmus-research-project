@@ -2,7 +2,8 @@
 ## I. What Is Proxy ?
 Assumed that you have a computer system in your organization that being used by two type of users. One of them is employees (aka Users) which have limited access to some of the functions on the system. The others one is Managers (aka Admins) which have all access to Users functions as well of some of the function that only them allowed to run.
 
-The easy solution for this problem in OOP would be using Inheritance:
+The easy solution for this problem in OOP would be using Inheritance:<br><br>
+![](https://raw.githubusercontent.com/trunghieumickey/team12-hcmus-research-project/main/naive.png)
 ```c++
 class User{
 	protected:
