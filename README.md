@@ -36,10 +36,10 @@ Even if you somehow work around that (like using interpreter programing language
 
 ## III. Types of Proxy and it real world examples
 
-## VI. Reference Sources
+## IV. Reference Sources
 - https://www.geeksforgeeks.org
 
-## VII. About Our Team
+## VI. About Our Team
 
 ### Group Members
 
